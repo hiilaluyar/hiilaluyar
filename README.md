@@ -1,135 +1,57 @@
-# 🌟 Welcome to My Digital Universe
+# Hey there! 👋 I'm Hilal
 
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,50:4B0082,100:9400D3&height=200&section=header&text=Hilal%20Uyar&fontSize=50&fontColor=ffffff&animation=fadeIn)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Innovation+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=hiilaluyar&label=Digital+Explorers&color=blueviolet&style=flat-square" alt="visitors" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=header&text=Developer%20%26%20Problem%20Solver&fontSize=30&fontColor=ffffff" />
 </div>
 
----
-
-## 🎭 The Story Behind The Code
+## 🚀 About Me
 
 ```javascript
-const hilal = {
+const developer = {
+  name: "Hilal Uyar",
   location: "Turkey 🇹🇷",
-  currentFocus: "Building scalable applications",
-  philosophy: "Clean code is not written by following rules. It's written by developers who care.",
-  workingOn: ["ASP.NET Core APIs", "React Native Apps", "Database Optimization"],
-  askMeAbout: ["Web Development", "Mobile Apps", "System Architecture"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  code: ["C#", "Python", "JavaScript", "SQL"],
+  focus: "Building practical solutions",
+  hobbies: ["Learning new tech", "Optimizing code", "Coffee ☕"]
 };
 ```
 
----
+## 💻 Tech Stack
 
-## 🛠️ My Tech Arsenal
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ### 🔥 Core Technologies
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-  
-  ### 📱 Frontend & Mobile
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)
-  ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=47848F)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-  
-  ### 🔧 Tools & Workflow
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=hiilaluyar&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiilaluyar&layout=compact&theme=radical&hide_border=true" height="165" />
 </div>
 
----
+## 🔥 Recent Projects
 
-## 📊 GitHub Analytics
+- **💰 Cash Flow Dashboard** - Financial tracking with ASP.NET MVC
+- **📊 Reporting Tool** - Dynamic SQL queries and pagination
+- **🎯 Activity Tracker** - Advanced filtering system
+- **🤖 Excel Automation** - Python data processing with Electron GUI
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiilaluyar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiilaluyar&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+## 🎯 Currently Working On
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiilaluyar&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | 💰 **Cash Flow Dashboard** | Real-time financial tracking with multi-database support | ASP.NET MVC, SQL Server, Chart.js |
-  | 📊 **Check/Note Reporting** | Dynamic reporting with server-side pagination | C#, Entity Framework, jQuery |
-  | 🎯 **Account Activity Tracker** | Advanced filtering and context switching system | ASP.NET Core, SignalR, Bootstrap |
-  | 🤖 **Excel Automation Suite** | Python-based data cleaning with Electron GUI | Python, Electron, Node.js |
-  
-</div>
-
----
-
-## 🎯 Current Goals
-
-```yaml
-2024_objectives:
-  - master: "Microservices Architecture"
-  - learn: "Docker & Kubernetes"
-  - build: "SaaS Application"
-  - contribute: "Open Source Projects"
-  - improve: "System Design Skills"
-```
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiilaluyar&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiilaluyar)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiilaluyar)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  
-</div>
-
----
-
-## 💭 Developer Wisdom
-
-<div align="center">
-  
-  > *"The best code is not just functional—it tells a story, solves a problem, and inspires others."*
-  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
-  
-</div>
+- Learning microservices architecture
+- Building a new SaaS project
+- Improving system design skills
 
 ---
 
 <div align="center">
   
-  ### 🎉 Thanks for stopping by!
+  [![GitHub followers](https://img.shields.io/github/followers/hiilaluyar?style=social)](https://github.com/hiilaluyar)
+  ![Profile Views](https://komarev.com/ghpvc/?username=hiilaluyar&color=blueviolet&style=flat)
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=footer&animation=fadeIn)
-  
-  **⭐ If you find my work interesting, consider giving it a star!**
+  *"Code is like humor. When you have to explain it, it's bad."* 😄
   
 </div>
