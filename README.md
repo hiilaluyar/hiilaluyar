@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Hilal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Developer+%26+Problem+Solver;Building+Practical+Solutions;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Software+Developer;Learning+%26+Building;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
