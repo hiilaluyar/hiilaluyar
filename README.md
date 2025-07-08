@@ -50,7 +50,7 @@ const developer = {
 
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-hiilaluyar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hiilaluyar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hiilaluyar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hilaluyar9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hiilaluyar-181717?style=flat&logo=github&logoColor=white)](https://github.com/hiilaluyar)
 
 </div>
