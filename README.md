@@ -35,16 +35,32 @@ const developer = {
 
 ## 🔥 Recent Projects
 
-* **💰 Cash Flow Dashboard** - Financial tracking with ASP.NET MVC
-* **📊 Reporting Tool** - Dynamic SQL queries and pagination  
-* **🎯 Activity Tracker** - Advanced filtering system
-* **🤖 Excel Automation** - Python data processing with Electron GUI
+* 💰 **Cash Flow Dashboard** – Financial tracking with ASP.NET MVC  
+* 📊 **Reporting Tool** – Dynamic SQL queries and pagination  
+* 🎯 **Activity Tracker** – Advanced filtering system  
+* 🤖 **Excel Automation** – Python data processing with Electron GUI
 
 ## 🎯 Currently Working On
 
-* Learning microservices architecture
-* Building a new SaaS project
+* Learning microservices architecture  
+* Building a new SaaS project  
 * Improving system design skills
+
+## 📫 How to Reach Me
+
+<div align="center">
+
+[![Gmail Badge](https://img.shields.io/badge/-hiilaluyar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hiilaluyar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hiilaluyar-181717?style=flat&logo=github&logoColor=white)](https://github.com/hiilaluyar)
+
+</div>
+
+---
+
+```bash
+> Currently debugging life... ☕  
+> Entering new feature branch → Growth 🚀
+```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hiilaluyar&color=blueviolet" alt="Profile views" />
